@@ -16,7 +16,7 @@
 
 # Networking Within AWS Overview
 
-![](Networking/vpcComplete4.svg)
+![](Networking/vpcComplete4.png)
 
 # Networking Outside AWS Overview
 
